@@ -1,0 +1,14 @@
+Size of the array: 6
+Give the 1 element: 1
+Give the 2 element: 2
+Give the 3 element: 4
+Give the 4 element: 3
+Give the 5 element: 5
+Give the 6 element: 0
+
+Current state of array: 024351
+Current state of array: 014352
+Current state of array: 012354
+Current state of array: 012354
+Current state of array: 012345
+Current state of array: 012345
